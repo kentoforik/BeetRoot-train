@@ -1,7 +1,7 @@
 # BeetRoot-train
 
-https://github.com/kentoforik/BeetRoot-train/blob/main/MyWork/Transport1.jpg
+[TR1](MyWork/Transport1.jpg)
 
-https://github.com/kentoforik/BeetRoot-train/blob/main/MyWork/Transport2.jpg
+[TR1](MyWork/Transport2.jpg)
 
-https://github.com/kentoforik/BeetRoot-train/blob/main/MyWork/Transport3.jpeg
+[TR1](MyWork/Transport3.jpg)
