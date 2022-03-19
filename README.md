@@ -1,5 +1,7 @@
 # BeetRoot-train
 
-MY WORK: https://docs.google.com/document/d/1nKVjJzZc_IAvbmYlbuJZCDP6N54gl_fARsd6LGpjmww/edit
+./MyWork/Transport1.jpg
 
-MY LinkedIn: https://www.linkedin.com
+./MyWork/Transport2.jpg
+
+./MyWork/Transport3.jpg
